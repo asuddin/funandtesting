@@ -2,6 +2,6 @@ body {
   background: green;
 }
 
-h1.style {
-  color: blue;
+h1 {
+  color: "#F0FFFF;"
 }
